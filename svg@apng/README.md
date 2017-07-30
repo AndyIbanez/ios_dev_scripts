@@ -2,6 +2,8 @@
 
 This script takes a SVG image (I tend to download them from [www.iconapp.io](http://www.iconapp.io/)) and generates all 1x, 2x, and 3x sizes of the image in PNG format. You pass in the base size in points and the script generates all three sizes based on it. You can also pass the hexadecimal color code to use in your images.
 
+Use this to resize images for `UITabBarItem`s, `UIBarButtonItem`s, and others.
+
 # Requirements for macOS.
 
 You can install the requirements with [Homebrew](https://brew.sh).
